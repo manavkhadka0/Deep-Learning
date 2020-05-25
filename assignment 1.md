@@ -53,6 +53,6 @@ Day -1</p>
 <ul>
 <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> Learn about next Lecture so that I can get most of what <a href="https://jovian.ml/forum/u/aakashns/summary">Akash</a> teaches on next Lecture 2.</li>
 </ul>
-<a href="https://medium.com/@manavkhadka0"><h2><strong>MY MEDIUM BLOG</strong></h2></a>
+<h2><a href="https://medium.com/@manavkhadka0"><strong>MY MEDIUM BLOG</strong></a></h2>
 <p><a href="https://medium.com/@manavkhadka0/my-6-weeks-of-learning-deep-learning-5a51ec6d0b7e">    INTRODUCTION</a></p>
 
